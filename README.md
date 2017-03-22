@@ -1,6 +1,6 @@
 # dogdugundan-beri
 
-https://github.com/ugurkilci/dogdugundan-beri/blob/master/db.jpg
+<img src="https://github.com/ugurkilci/dogdugundan-beri/blob/master/db.jpg" >
 
 Doğduğundan beri ne kadar ay, yıl, gün, saniye, dakika gibi şeyleri hesaplayan yazılım.
 
